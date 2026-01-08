@@ -52,8 +52,8 @@
                 <img src="assets/img/icon/scholarship.svg" alt="">
               </div>
               <div class="feature-content">
-                <h4 class="feature-title">Scholarship Facility</h4>
-                <p>It is a long established fact that a reader will be distracted.</p>
+                <h4 class="feature-title">Skill Development</h4>
+                <p>Empowering individuals with practical skills and vocational training for better opportunities.</p>
               </div>
             </div>
           </div>
@@ -64,8 +64,8 @@
                 <img src="assets/img/icon/teacher.svg" alt="">
               </div>
               <div class="feature-content">
-                <h4 class="feature-title">Skilled Lecturers</h4>
-                <p>It is a long established fact that a reader will be distracted.</p>
+                <h4 class="feature-title">Youth Leadership & Development</h4>
+                <p>Nurturing young minds to become confident leaders and change-makers of tomorrow.</p>
               </div>
             </div>
           </div>
@@ -76,8 +76,8 @@
                 <img src="assets/img/icon/library.svg" alt="">
               </div>
               <div class="feature-content">
-                <h4 class="feature-title">Book Library Facility</h4>
-                <p>It is a long established fact that a reader will be distracted.</p>
+                <h4 class="feature-title">Women Empowerment</h4>
+                <p>Supporting women through education and skills to achieve independence and equality.</p>
               </div>
             </div>
           </div>
@@ -88,8 +88,8 @@
                 <img src="assets/img/icon/money.svg" alt="">
               </div>
               <div class="feature-content">
-                <h4 class="feature-title">Affordable Price</h4>
-                <p>It is a long established fact that a reader will be distracted.</p>
+                <h4 class="feature-title">Tribal Development</h4>
+                <p>Uplifting tribal communities through education, healthcare, and sustainable livelihood programs.</p>
               </div>
             </div>
           </div>
@@ -511,7 +511,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 py-3">
             <div class="card">
               <div class="card-header">
                 <h4 class="card-title text-center ">Acknowledgement</h4>
@@ -705,7 +705,7 @@
             <div class="fb-page"
               data-href="https://www.facebook.com/nifesrofficial"
               data-tabs="timeline"
-              data-width="340"
+              data-width="370"
               data-height="500"
               data-small-header="false"
               data-adapt-container-width="true"
