@@ -1072,9 +1072,17 @@ label {
 }
 
 .logo-image {
-  width: 230px;
+  width: 250px;
   height: auto;
   margin-right: 10px;
+}
+
+@media (max-width: 1200px) {
+  .logo-image {
+    width: 230px;
+    height: auto;
+    margin-right: 8px;
+  }
 }
 
 .iso-image {

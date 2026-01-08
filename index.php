@@ -150,13 +150,18 @@
                     </div>
                     <div class="about-quote">
                       <marquee behavior="scroll" direction="up" onmouseover="this.stop()" onmouseout="this.start()" style="height: 300px;">
-                        <p style="line-height: 1.2;">
+                        <a href="" style="line-height: 1.2;"><span class="small fw-bold">05/01/2026: </span>
                           "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
-                        </p>
-                        <a class="btn btn-sm  btn-dark" href=""> see more</a>
+                        </a>
+                        <hr>
+                        <a href="" style="line-height: 1.2;"><span class="small fw-bold ">05/01/2026 :</span>
+                          "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+                        </a>
+                        <hr>
                       </marquee>
+                      <hr class="my-1 mx-0 p-0">
                       <i class="far fa-quote-right"></i>
-                      <a class="btn btn-sm btn-outline-dark" href=""> see more</a>
+                      <a class="btn btn-sm btn-outline-dark " href=""> see more</a>
                     </div>
                   </div>
                 </div>
@@ -242,7 +247,7 @@
     <div class="gallery-area py-4">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 py-3">
             <div class="card">
               <div class="card-header">
                 <h4 class="card-title text-center ">Photo Gallery</h4>
@@ -251,7 +256,7 @@
               <div class="card-body ">
                 <div class="container">
                   <div class="row popup-gallery">
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".25s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".25s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -263,7 +268,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".50s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".50s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -275,7 +280,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -286,9 +291,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -299,9 +304,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -312,9 +317,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -325,9 +330,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -338,9 +343,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -351,9 +356,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -364,7 +369,7 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
                   </div>
                 </div>
@@ -374,7 +379,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 py-3">
             <div class="card">
               <div class="card-header">
                 <h4 class="card-title text-center ">Print Media</h4>
@@ -383,7 +388,7 @@
               <div class="card-body ">
                 <div class="container">
                   <div class="row popup-gallery">
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".25s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".25s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -395,7 +400,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".50s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".50s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -407,7 +412,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -418,9 +423,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -431,9 +436,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -444,9 +449,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -457,9 +462,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -470,9 +475,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -483,9 +488,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -496,7 +501,7 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
                   </div>
                 </div>
@@ -515,7 +520,7 @@
               <div class="card-body ">
                 <div class="container">
                   <div class="row popup-gallery">
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".25s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".25s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -527,7 +532,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".50s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".50s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -539,7 +544,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -550,9 +555,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -563,9 +568,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -576,9 +581,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -589,9 +594,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -602,9 +607,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -615,9 +620,9 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
-                    <div class="col-md-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
+                    <div class="col-md-4 col-4 wow fadeInUp p-0 m-0" data-wow-delay=".75s">
                       <div class="gallery-item">
                         <div class="gallery-img">
                           <img src="assets/img/gallery/07.png" alt="" />
@@ -628,7 +633,7 @@
                             href="assets/img/gallery/07.png"><i class="fal fa-plus"></i></a>
                         </div>
                       </div>
-                     
+
                     </div>
                   </div>
                 </div>
@@ -639,10 +644,10 @@
             </div>
           </div>
         </div>
-        
+
         <!-- video galary  -->
         <div class="row py-5">
-           <div class="col-md-6">
+          <div class="col-md-6">
             <div class="card">
               <div class="card-header">
                 <h4 class="card-title text-center">Video Gallery</h4>
@@ -684,15 +689,13 @@
                     </div>
                   </div>
                 </div>
-
               </div>
               <div class="card-footer p-0 m-0">
                 <a href="gallery.html" class="theme-btn m-2 d-block text-center">See More<i class="fas fa-arrow-right-long"></i></a>
               </div>
             </div>
           </div>
-          <div class="col-md-4 d-flex justify-content-center align-items-center ">
-
+          <div class="col-md-6 d-flex justify-content-center align-items-center align-self-center">
             <!-- Facebook Page Plugin -->
             <div id="fb-root"></div>
             <script async defer crossorigin="anonymous"
@@ -709,7 +712,6 @@
               data-hide-cover="false"
               data-show-facepile="true">
             </div>
-
           </div>
         </div>
       </div>
@@ -848,13 +850,12 @@
     <div class="partner-area bg pt-50 pb-50">
       <div class="container">
         <div class="partner-wrapper partner-slider owl-carousel owl-theme">
-          <img src="assets/img/partner/01.png" alt="thumb" />
-          <img src="assets/img/partner/02.png" alt="thumb" />
-          <img src="assets/img/partner/03.png" alt="thumb" />
-          <img src="assets/img/partner/04.png" alt="thumb" />
-          <img src="assets/img/partner/01.png" alt="thumb" />
-          <img src="assets/img/partner/02.png" alt="thumb" />
-          <img src="assets/img/partner/04.png" alt="thumb" />
+          <img src="assets/images/logo/transparent.png" alt="thumb" />
+          <img src="assets/images/logo/transparent.png" alt="thumb" />
+          <img src="assets/images/logo/transparent.png" alt="thumb" />
+          <img src="assets/images/logo/transparent.png" alt="thumb" />
+          <img src="assets/images/logo/transparent.png" alt="thumb" />
+          <img src="assets/images/logo/transparent.png" alt="thumb" />
         </div>
       </div>
     </div>

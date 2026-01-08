@@ -114,7 +114,7 @@
                 <a href="index.php"> Naman International Foundation </a> All Rights Reserved.
               </p>
             </div>
-            <div class="col-md-6 align-self-center">
+            <!-- <div class="col-md-6 align-self-center">
               <ul class="footer-social">
                 <li>
                   <a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a>
@@ -129,7 +129,7 @@
                   <a href="#" title="YouTube"><i class="fab fa-youtube"></i></a>
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>

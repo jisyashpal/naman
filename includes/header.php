@@ -59,7 +59,7 @@
         <!-- Right Button -->
         <div class="align-items-center">
           <div class="iso">
-            <img class="logo-image" src="assets/images/logo/nhrccb.png" alt="">
+            <img class="logo-image" src="assets/images/logo/naman.png" alt="">
             <img class="iso-image" src="assets/images/logo/iso.webp" alt="">
           </div>
           <!-- <a href="#" class="theme-btn">
