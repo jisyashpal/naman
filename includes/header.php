@@ -50,9 +50,9 @@
             <div class="d-flex flex-column align-items-center justify-content-center ">
               <h3 class="main-text">NAMAN INTERNATIONAL FOUNDATION</h3>
               <span class="text1">FOR EDUCATION AND SOCIAL RESEARCH</span>
-              <span class="text2">(A NON-PROFITABLE ORGANIZATION REGD UNDER MINISTRY OF CORPORATE AFFAIRS, GOV)</span>
-              <span class="text3">(REGD NITI AAYOG, GOVT OF INDIA, UNITED NATION (UNDESA)) AN ISO CERTIFIED</span>
-              <span class="text3">(IN -U80900JH2020NPL01998)</span>
+              <span class="text2">(A NON-PROFIT ORGANISATION REGD. UNDER MINISTRY OF CORPORATE AFFAIRS, GOI)</span>
+              <span class="text3">(REGD. NITI AAYOG, GOVT OF INDIA, UNITED NATION (UNDESA)) AN ISO CERTIFIED</span>
+              <span class="text3">CIN - U80900JH2021NPL016998</span>
             </div>
           </a>
         </div>
